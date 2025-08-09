@@ -1,11 +1,4 @@
 
-* The objective of the experiment
-* Explanation of each code block and concept
-* Output expectations
-* What the user learns
-
----
-
 ## 📘 `README.md` for `Experiment_3` – **Power Law Transformation & Contrast Enhancement**
 
 ````markdown
