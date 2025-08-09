@@ -19,7 +19,7 @@ This experiment introduces basic image operations such as loading, displaying, c
 Install with:
 pip install numpy opencv-python
 
-# **Key Concepts Explained:**
+# Key Concepts Explained:
 
 1) img.shape
 Returns the dimensions of the image.
